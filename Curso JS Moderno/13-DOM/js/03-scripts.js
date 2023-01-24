@@ -14,3 +14,7 @@ console.log(myForm);
 
 const nav = document.querySelector('nav');
 console.log(nav);
+
+// Select multiple items with a class
+const cards = document.querySelectorAll('.card');
+console.log(cards);
